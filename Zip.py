@@ -1,4 +1,4 @@
-name =("Sai Neel","Sravani","Vaishu","Balaji","Sai Neel")
+name =("Sai Neel","Sravani","Vaishu","Lord Balaji","Sai Neel")
 jobs=("Win Wire","Sel Employed","Kid","God","Win Wire")
 
 print("\n For Loop output : \n")
