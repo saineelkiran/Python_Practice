@@ -7,5 +7,5 @@ for i in range (2,num):
         print("The number " + str(num) + " is not prime")
         break
 else:
-    print("The number " + str(num) + " is prime")
+    print("The number " + str(num) + " is prime ")
 
