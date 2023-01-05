@@ -7,7 +7,7 @@ def sort(list):
                 list[j]=list[j+1]
                 list[j+1]=temp
 
-list=[8,7,20,34,21,67,29,37,22,29,2,3,89]
+list=[8,7,20,34,21,67,29,37,22,29,2,3,89,34]
 sort(list)
 
 print(list)

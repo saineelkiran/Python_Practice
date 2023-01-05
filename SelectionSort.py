@@ -11,7 +11,7 @@ def sort(nums):
         nums[min_pos]=temp
 
         print(nums)
-nums=[8,7,20,34,21,67,29,37,22,29,2,3]
+nums=[8,7,20,34,21,67,29,37,22,29,2,3,99]
 sort(nums)
 
 # print(nums)
