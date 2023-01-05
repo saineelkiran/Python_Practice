@@ -20,7 +20,7 @@ else:
     print("Number not found in Array")
 print ("Output using index function : "+str(arr.index(s)))
 
-
+#Adding a new comment line from Git
 #-------------------------------------------------------------------------------------------------------------
 """
 val = array('f', [2.5, 6, 8, 4, 9.2])
