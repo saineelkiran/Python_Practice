@@ -13,6 +13,5 @@ def fib(n):
                 break
             y=x
             x=sum
-            n+=1
 
 fib(int(input(" Enter the fibinaci number please  : ")))
